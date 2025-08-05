@@ -33,7 +33,7 @@ Application web développée pour l'Hôpital Ghassani à Fès dans le cadre de m
 
 1. **Cloner le projet**
 ```bash
-git clone [URL_DU_REPOSITORY]
+git clone https://github.com/ranyaserraj/hospital_services.git
 ```
 
 2. **Installer les dépendances**
